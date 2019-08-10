@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/fetchData"
+    android:icon="@drawable/download_list"
+    android:title="Fetch List"
+    app:showAsAction="always"/>
+    <item
+        android:id="@+id/clearAll"
+        android:title="Clear All"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/delete"
+        android:title="Delete Account"
+        app:showAsAction="never"/>
+
+</menu>

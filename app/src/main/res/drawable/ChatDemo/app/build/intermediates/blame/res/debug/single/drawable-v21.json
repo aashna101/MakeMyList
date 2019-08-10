@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\pavilion\\Desktop\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\pavilion\\.android\\build-cache\\f7a21bf6454982b71ea3566309eb7296a8c798ae\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pavilion\\Desktop\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\pavilion\\.android\\build-cache\\f7a21bf6454982b71ea3566309eb7296a8c798ae\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pavilion\\Desktop\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\pavilion\\.android\\build-cache\\f7a21bf6454982b71ea3566309eb7296a8c798ae\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pavilion\\Desktop\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\pavilion\\.android\\build-cache\\f7a21bf6454982b71ea3566309eb7296a8c798ae\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

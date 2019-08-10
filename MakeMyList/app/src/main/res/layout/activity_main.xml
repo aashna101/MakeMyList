@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:baselineAligned="false"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorAccent"
+    android:id="@+id/mLayoutColor"
+    tools:context="com.example.pavilion.makemylist.MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#6d049b"
+        android:id="@+id/ToolbarMy"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+       />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/colorAccent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:orientation="horizontal">
+
+            <AutoCompleteTextView
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:padding="4dp"
+                android:id="@+id/itemText"
+                android:background="#d2b0f9"
+                android:layout_weight="1"
+                android:hint="@string/Items"
+                android:textSize="15sp"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/addItemBtn"
+                android:background="@android:drawable/ic_input_add"
+                android:onClick="uploadItemBtnClicked"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:id="@+id/addQuantityBtn"
+                android:layout_height="wrap_content"
+                android:onClick="uploadQuantityBtnClicked"
+                android:background="@android:drawable/ic_input_add"
+                android:textSize="20sp"/>
+
+
+            <AutoCompleteTextView
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:padding="4dp"
+                android:id="@+id/quantityText"
+                android:background="#d2b0f9"
+                android:hint="@string/quality"
+                android:layout_weight="1"
+                android:textSize="15sp"/>
+
+
+        </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="20dp"
+        android:orientation="horizontal">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+        <Button
+            android:layout_width="70dp"
+            android:id="@+id/addToListBtn"
+            android:layout_height="50dp"
+            android:background="@drawable/add_to_list"
+            android:onClick="addBtnClicked"
+            android:textSize="25sp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ADD"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+
+            />
+</LinearLayout>
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/removeBtn"
+            android:layout_marginLeft="16dp"
+            android:background="@drawable/delete"
+            android:onClick="removeListBtnClicked" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="DELETE"
+        android:layout_gravity="center"/>
+</LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        <Button
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:id="@+id/uploadListBtn"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/upload_image"
+            android:onClick="SaveListBtnClicked" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="UPLOAD"
+                android:layout_gravity="center"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        <Button
+            android:layout_width="90dp"
+            android:id="@+id/sendListBtn"
+            android:layout_height="50dp"
+            android:layout_marginLeft="14dp"
+            android:onClick="senBtnClicked"
+            android:background="@drawable/send_list" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="SENT TO..."
+            android:layout_gravity="center"/>
+    </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/myList"
+            android:background="#cdabf9"
+            />
+
+</LinearLayout>

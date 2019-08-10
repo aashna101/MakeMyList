@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\pavilion\\Desktop\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\pavilion\\.android\\build-cache\\f7a21bf6454982b71ea3566309eb7296a8c798ae\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\pavilion\\Desktop\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\pavilion\\.android\\build-cache\\f7a21bf6454982b71ea3566309eb7296a8c798ae\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\pavilion\\Desktop\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\pavilion\\.android\\build-cache\\f7a21bf6454982b71ea3566309eb7296a8c798ae\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\pavilion\\Desktop\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\pavilion\\.android\\build-cache\\f7a21bf6454982b71ea3566309eb7296a8c798ae\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,251 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\pavilion\.android\build-cache\4ef719288cfa49bce22c071c069dd5c287f48f19\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\pavilion\.android\build-cache\d68024fd06da4fa96bc3667138e3f405968f31bb\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\pavilion\.android\build-cache\103db3f637b18531f04144ffa803071945a767c6\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.firebaseui:firebase-ui-database:1.0.0] C:\Users\pavilion\.android\build-cache\f5b095334ad6c645c867375aa5ebc5e1dc2d2cae\output\AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\pavilion\.android\build-cache\f7a21bf6454982b71ea3566309eb7296a8c798ae\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\pavilion\.android\build-cache\22ca5171106dfa4558695ae7599909e712f20d73\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\pavilion\.android\build-cache\c87b6af231df63d25e3d376abdf4058dfac31c4f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\pavilion\.android\build-cache\35c44e497b8dd0086844a335348702a56d467e1d\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\pavilion\.android\build-cache\643532ce6bf21393d6f42f65a5aeab8067d534b3\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\pavilion\.android\build-cache\7e0a6feaae0364f4cc1c46abceeacb5c7ce2eb9a\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\pavilion\.android\build-cache\7396740e157888201e21244dd4ae1a73e5b24061\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\pavilion\.android\build-cache\1820f4ac6220cc54b0108f35df136f40a835b356\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\pavilion\.android\build-cache\f6f3b66934b0ed1d7817aa45ffda30890b5c8ad5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\pavilion\.android\build-cache\8f20f5a2c93a20876d48dd561e91dc5611051b4f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\pavilion\.android\build-cache\fdd6f95e38846d47ee302318992c581cfddf84d7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\pavilion\.android\build-cache\2e83ad095b0e1559a1baf270fb105191df067f18\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\pavilion\.android\build-cache\a359c1d9e48a9208915c4e6f55a0c26e6092b316\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\pavilion\.android\build-cache\1a967e239617e9c51614d2bb979d062646cf6f0e\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.pavilion.chatdemo.MainActivity
+ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.pavilion.chatdemo.LoginActivity
+ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:19:19-48
+activity#com.example.pavilion.chatdemo.RegisterActivity
+ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:20:9-63
+	android:name
+		ADDED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml:20:19-51
+uses-sdk
+INJECTED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\pavilion\.android\build-cache\4ef719288cfa49bce22c071c069dd5c287f48f19\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\pavilion\.android\build-cache\d68024fd06da4fa96bc3667138e3f405968f31bb\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\pavilion\.android\build-cache\103db3f637b18531f04144ffa803071945a767c6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.firebaseui:firebase-ui-database:1.0.0] C:\Users\pavilion\.android\build-cache\f5b095334ad6c645c867375aa5ebc5e1dc2d2cae\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\pavilion\.android\build-cache\f7a21bf6454982b71ea3566309eb7296a8c798ae\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\pavilion\.android\build-cache\22ca5171106dfa4558695ae7599909e712f20d73\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\pavilion\.android\build-cache\c87b6af231df63d25e3d376abdf4058dfac31c4f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\pavilion\.android\build-cache\82c4ab6b75bd5862c3f4061c28e77ccec74dec63\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\pavilion\.android\build-cache\ed636a5a5cf7807cf2f399376f0bf7fd2c8ea8fc\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\pavilion\.android\build-cache\ec22d9c0e5b424151b580548e5616a7b649ec5ee\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\pavilion\.android\build-cache\35c44e497b8dd0086844a335348702a56d467e1d\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\pavilion\.android\build-cache\643532ce6bf21393d6f42f65a5aeab8067d534b3\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\pavilion\.android\build-cache\7e0a6feaae0364f4cc1c46abceeacb5c7ce2eb9a\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\pavilion\.android\build-cache\7396740e157888201e21244dd4ae1a73e5b24061\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\pavilion\.android\build-cache\1820f4ac6220cc54b0108f35df136f40a835b356\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\pavilion\.android\build-cache\f6f3b66934b0ed1d7817aa45ffda30890b5c8ad5\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\pavilion\.android\build-cache\8f20f5a2c93a20876d48dd561e91dc5611051b4f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\pavilion\.android\build-cache\fdd6f95e38846d47ee302318992c581cfddf84d7\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\pavilion\.android\build-cache\2e83ad095b0e1559a1baf270fb105191df067f18\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\pavilion\.android\build-cache\a359c1d9e48a9208915c4e6f55a0c26e6092b316\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\pavilion\.android\build-cache\1a967e239617e9c51614d2bb979d062646cf6f0e\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\pavilion\.android\build-cache\f7a21bf6454982b71ea3566309eb7296a8c798ae\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pavilion\Desktop\ChatDemo\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\pavilion\.android\build-cache\103db3f637b18531f04144ffa803071945a767c6\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\pavilion\.android\build-cache\103db3f637b18531f04144ffa803071945a767c6\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\pavilion\.android\build-cache\103db3f637b18531f04144ffa803071945a767c6\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\pavilion\.android\build-cache\103db3f637b18531f04144ffa803071945a767c6\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-database:1.0.0] C:\Users\pavilion\.android\build-cache\f5b095334ad6c645c867375aa5ebc5e1dc2d2cae\output\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\pavilion\.android\build-cache\643532ce6bf21393d6f42f65a5aeab8067d534b3\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.0.0] C:\Users\pavilion\.android\build-cache\f5b095334ad6c645c867375aa5ebc5e1dc2d2cae\output\AndroidManifest.xml:11:22-64
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:1.0.0] C:\Users\pavilion\.android\build-cache\f5b095334ad6c645c867375aa5ebc5e1dc2d2cae\output\AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\pavilion\.android\build-cache\1820f4ac6220cc54b0108f35df136f40a835b356\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:1.0.0] C:\Users\pavilion\.android\build-cache\f5b095334ad6c645c867375aa5ebc5e1dc2d2cae\output\AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.0.0] C:\Users\pavilion\.android\build-cache\f5b095334ad6c645c867375aa5ebc5e1dc2d2cae\output\AndroidManifest.xml:15:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\pavilion\.android\build-cache\f7a21bf6454982b71ea3566309eb7296a8c798ae\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\pavilion\.android\build-cache\22ca5171106dfa4558695ae7599909e712f20d73\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\pavilion\.android\build-cache\c87b6af231df63d25e3d376abdf4058dfac31c4f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\pavilion\.android\build-cache\82c4ab6b75bd5862c3f4061c28e77ccec74dec63\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\pavilion\.android\build-cache\f6f3b66934b0ed1d7817aa45ffda30890b5c8ad5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\pavilion\.android\build-cache\8f20f5a2c93a20876d48dd561e91dc5611051b4f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\pavilion\.android\build-cache\fdd6f95e38846d47ee302318992c581cfddf84d7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\pavilion\.android\build-cache\2e83ad095b0e1559a1baf270fb105191df067f18\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\pavilion\.android\build-cache\a359c1d9e48a9208915c4e6f55a0c26e6092b316\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\pavilion\.android\build-cache\1a967e239617e9c51614d2bb979d062646cf6f0e\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\pavilion\.android\build-cache\f7a21bf6454982b71ea3566309eb7296a8c798ae\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\pavilion\.android\build-cache\f7a21bf6454982b71ea3566309eb7296a8c798ae\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\pavilion\.android\build-cache\643532ce6bf21393d6f42f65a5aeab8067d534b3\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\pavilion\.android\build-cache\643532ce6bf21393d6f42f65a5aeab8067d534b3\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\pavilion\.android\build-cache\643532ce6bf21393d6f42f65a5aeab8067d534b3\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\pavilion\.android\build-cache\643532ce6bf21393d6f42f65a5aeab8067d534b3\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\pavilion\.android\build-cache\c83600f57e38d237944040048aee432eacb84991\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\pavilion\.android\build-cache\fd5688207212e5f80a712a58b1701b875cdd31b1\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\pavilion\.android\build-cache\7e0a6feaae0364f4cc1c46abceeacb5c7ce2eb9a\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\pavilion\.android\build-cache\7e0a6feaae0364f4cc1c46abceeacb5c7ce2eb9a\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\pavilion\.android\build-cache\7e0a6feaae0364f4cc1c46abceeacb5c7ce2eb9a\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\pavilion\.android\build-cache\7e0a6feaae0364f4cc1c46abceeacb5c7ce2eb9a\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\pavilion\.android\build-cache\7e0a6feaae0364f4cc1c46abceeacb5c7ce2eb9a\output\AndroidManifest.xml:6:79-143

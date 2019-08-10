@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MakeMyList</string>
+    <string name="Items">Items</string>
+    <string name="newItem">New Item</string>
+    <string name="quality">Quantity</string>
+    <string name="newQuality">New Quantity</string>
+    <string name="viewList">View List</string>
+    <string name="sendList">Send List</string>
+    <string name="number">Enter your number :</string>
+    <string name="save">Save and Register Me!!!</string>
+    <string name="confirm">Are you sure you want to delete your ACCOUNT </string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+</resources>
